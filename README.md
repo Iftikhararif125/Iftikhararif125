@@ -122,21 +122,6 @@ I'm an aspiring **Data Scientist and Applied Statistician** with an academic bac
 
 ---
 
-## 🏆 Honors & Certifications
-
-**Certifications**
-
-- [Add your certification name here]
-- [Add your certification name here]
-- [Add your training or workshop here]
-
-**Achievements**
-
-- [Add your academic achievements here]
-- [Add your professional achievements here]
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
